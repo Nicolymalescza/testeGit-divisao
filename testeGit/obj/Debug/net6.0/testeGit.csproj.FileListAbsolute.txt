@@ -1,0 +1,15 @@
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\bin\Debug\net6.0\testeGit.exe
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\bin\Debug\net6.0\testeGit.deps.json
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\bin\Debug\net6.0\testeGit.runtimeconfig.json
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\bin\Debug\net6.0\testeGit.dll
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\bin\Debug\net6.0\testeGit.pdb
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\obj\Debug\net6.0\testeGit.csproj.AssemblyReference.cache
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\obj\Debug\net6.0\testeGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\obj\Debug\net6.0\testeGit.AssemblyInfoInputs.cache
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\obj\Debug\net6.0\testeGit.AssemblyInfo.cs
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\obj\Debug\net6.0\testeGit.csproj.CoreCompileInputs.cache
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\obj\Debug\net6.0\testeGit.dll
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\obj\Debug\net6.0\refint\testeGit.dll
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\obj\Debug\net6.0\testeGit.pdb
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\obj\Debug\net6.0\testeGit.genruntimeconfig.cache
+C:\Users\2022102020053\Documents\IFRO 2ANO\POO\2Bimestre\testeGit\testeGit\obj\Debug\net6.0\ref\testeGit.dll
