@@ -1,16 +1,19 @@
 ﻿try
 {
-    Console.WriteLine("informe dois numeros: ");
-    int a = int.Parse(Console.ReadLine());
-    int b = int.Parse(Console.ReadLine());
-    double conta = a / b;
-    Console.WriteLine(conta);
-    
-
+    Console.Write("Informe um valor: ");
+    int a = Convert.ToInt32(Console.ReadLine());
+    Console.Write("Informe outro valor: ");
+    int b = Convert.ToInt32(Console.ReadLine());
+    int conta = a / b;
+    Console.WriteLine($"Resultado é = {conta}");
 }
-catch
+catch (FormatException ex)
 {
-    Console.WriteLine("Algo de errado não esta certo!\nDigite APENAS números\n");
+    Console.WriteLine($"Nao e permitida string para int não e permitida {ex.Message}");
+}
+catch (Exception ex)
+{
+    Console.WriteLine($"Indique um valor valido!!" + ex.Message);
 }
 
 Console.ReadKey();
